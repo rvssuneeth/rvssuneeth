@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sai Suneeth
 - 🔭 I’m currently working in Scicom Services
 - 🌱 I’m currently learning Cloud Technologies (AWS, Azure)
-- 💞️ I’m looking for new opportunites in Data Analytics ...
+- 💞️ I’m looking for new opportunites in Data Analytics as Data Analyst or Data Scientist
 - 😄 Pronouns: He / Him / His
 - 📫 How to reach me rvsaisuneeth@gmail.com/ https://www.linkedin.com/in/saisuneeth
 
