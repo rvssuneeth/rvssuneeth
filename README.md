@@ -3,7 +3,7 @@
 -🌱 I’m currently learning Cloud Technologies (AWS, Azure)
 - 💞️ I’m looking for new opportunites in Data Analytics ...
 - 😄 Pronouns: He / Him / His
-- 📫 How to reach me rvsaisuneeth@gmail.com
+- 📫 How to reach me rvsaisuneeth@gmail.com/ https://www.linkedin.com/in/saisuneeth
 
 I'm interested to collaborate in Analytics and ML projects, please feel free to message/ email.
 
