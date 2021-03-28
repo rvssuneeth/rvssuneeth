@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Suneeth
+- 👋 Hi, I’m Suneeth
 - 🔭 I’m currently working in Scicom Services
 - 😄 Top Skills - Python, R, SQL, Tableau, Power BI
 - 🌱 Developing skills in Cloud Technologies (AWS, Azure)
