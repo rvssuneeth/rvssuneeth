@@ -3,7 +3,7 @@
 - 😄 Top Skills - Python, R, SQL, Tableau, Power BI
 - 🌱 Developing skills in Cloud Technologies (AWS, Azure)
 - 💞️ Looking for new opportunities in Data Analytics as Data Analyst or Data Scientist
-- 📫 How to reach me rvsaisuneeth@gmail.com/ https://www.linkedin.com/in/saisuneeth
+- 📫 How to reach me suneethravilla@gmail.com/ https://www.linkedin.com/in/suneethravilla
 
 I'm interested to collaborate on Analytics and ML projects, please feel free to message/ email.
 
